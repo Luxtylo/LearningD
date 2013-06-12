@@ -1,4 +1,8 @@
-LearningD
-=========
+LearningLanguages
+=================
+Learning and messing around with various languages
+--------------------------------------------------
 
-Learning and messing around with the D programming language
+Languages currently included:
+* D
+* Ruby
